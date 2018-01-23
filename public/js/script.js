@@ -1,3 +1,7 @@
+/*
+	Developed by Drew Suitor and YanPeng Gao
+*/
+
 function getIngredient() {
 
   let foodName = document.getElementById('ingredient').value
